@@ -84,5 +84,9 @@ Not this.
 Or this.
 ```
 
+6.For the bette proof of the ownership of the blog, add your details
+in the info/Blog/AllPosts.json.
+
+7.You can also send a photo for your coverimage that will be shown in Blog Overview page in static/img/Blog folder.
 
 After completing the above steps, please submit a PR to [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website) for review. Happy blogging!
